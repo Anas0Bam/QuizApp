@@ -3,7 +3,7 @@ import 'package:quizapp/data/questions.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'model/question_summary.dart';
+import 'question_summary.dart';
 
 class ResultsPage extends StatelessWidget {
   const ResultsPage(
