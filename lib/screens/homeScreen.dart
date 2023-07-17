@@ -1,12 +1,12 @@
 // ignore_for_file: file_names
 
 import 'package:quizapp/data/questions.dart';
-import 'package:quizapp/quizPage.dart';
 
-import 'package:quizapp/startScreen.dart';
 import 'package:flutter/material.dart';
 
+import 'quizPage.dart';
 import 'resultsPage.dart';
+import 'startScreen.dart';
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({super.key});

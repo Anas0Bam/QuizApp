@@ -3,8 +3,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import 'answersButton.dart';
-import 'data/questions.dart';
+import '../data/questions.dart';
+import '../widget/answersButton.dart';
 
 class QuizPage extends StatefulWidget {
   const QuizPage({
